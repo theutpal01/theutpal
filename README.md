@@ -15,7 +15,7 @@
 <!-- ## 👷🏻‍♂️ I've made a contribution in ... -->
 
 ## 📄 All of my projects on ...
-<a href="https://www.github.com/theutpal01" target="_blank"><img src="https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/theutpal01?tab=repositories" target="_blank"><img src="https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 
 <!-- ## 💬 Inquire about ... -->
 
