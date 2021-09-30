@@ -41,11 +41,11 @@
 ## 🧰 Languages and Tools ...
 <!-- ![C](https://shields.io/badge/C-6063C5?style=for-the-badge&logo=C&logoColor=FFF) -->
 [![C++](https://shields.io/badge/C++-578EC8?style=for-the-badge&logo=C%2B%2B&logoColor=white)](#)
-![GIT](https://shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)
-![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)
+[![GIT](https://shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)]()
+[![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)]()
+[![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)]()
 
 
 
