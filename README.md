@@ -9,8 +9,8 @@
 - C++
 - SDL2
 
-## 👯 I’m looking to collaborate on ...
-- C++
+<!-- ## 👯 I’m looking to collaborate on ...
+- C++ -->
 
 <!-- ## 👷🏻‍♂️ I've made a contribution in ... -->
 
@@ -45,7 +45,7 @@
 [![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)](#)
-[![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)](#)
+<!-- [![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)](#) -->
 
 
 
